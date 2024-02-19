@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(76, 142, 76);
+    font-family: Arial;
+    font-size: 20px;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 20px;
+}
+
+.first {
+    color: red;
+}
+
+#your-name {
+    background-color: orange;
+    border: 5px solid #444;
+}
